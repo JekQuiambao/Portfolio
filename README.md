@@ -1,1 +1,1 @@
-# github.com/JekQuiambao/Portfolio/
+#  https://jekquiambao.github.io/Portfolio/
